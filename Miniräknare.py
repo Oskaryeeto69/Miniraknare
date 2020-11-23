@@ -7,9 +7,9 @@ def multiply(x, y): # hittade detta på google för att göra det lättare att s
 
 räknetyp = str(input('Tjabba å välkommen till den goa miniräknarn (klicka enter för att gå vidare)')) # välkomnar dig till miniräknaren
 print('Välj ett räknesätt.') # frågar vilket räknesätt du vill använda eller om du vill avsluta
-print('1.Addition') # säger att 1 är addition
-print('2. Subtraktion') # säger att 2 är subtraktion
-print('3. Multiplikation') # säger att 3 är multiplikation
+print('1. Räkna med addition') # säger att 1 är addition
+print('2. Räkna med subtraktion') # säger att 2 är subtraktion
+print('3. Räkna med multiplikation') # säger att 3 är multiplikation
 print('4. För att avsluta') # säger att 4 avslutar programmet
 
 while True: 
